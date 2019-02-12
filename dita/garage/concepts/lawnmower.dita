@@ -7,8 +7,9 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
  "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
 <concept id="lawnmowerconcept" xml:lang="en-us">
-<title>Lawnmower</title>
-<shortdesc>The lawnmower is a machine used to cut grass in the yard.</shortdesc>
-<conbody><p>Lawnmowers can be 
-electric, gas-powered, or manual.</p></conbody>
+ <title><?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>Lawnmower<?oxy_custom_end?>hh</title>
+ <shortdesc>The lawnmower is a machine used to cut grass in the yard.</shortdesc>
+ <conbody>
+  <p>Lawnmowers can be electric, gas-powered, or manual.</p>
+ </conbody>
 </concept>
