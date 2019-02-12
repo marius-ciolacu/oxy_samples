@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="gardenia">
-    <title>Gardenia</title>
+    <title>Gardenia  test</title>
     <body>
         <p><i>From Wikipedia, the free encyclopedia.</i></p>
         <p><b>Gardenia</b><indexterm>flowers<indexterm>summer<indexterm>gardenia</indexterm></indexterm></indexterm>
@@ -23,9 +23,10 @@
             be very large in some species.</p>
         <p><b>Gardenias</b> have a reputation for being difficult to grow. Because they originated
             in warm humid tropical areas, they demand high humidity to thrive. They flourish in
-            acidic soils with good drainage and thrive on [68-74 F temperatures (20-23 C)] during
-            the day and 60 F (15-16 C) in the evening. Potting soils developed especially for
-            gardenias are available.</p>
+            <?oxy_comment_start author="marius-ciolacu" timestamp="20180213T140913+0200" comment="rrr"?>acidic
+            <?oxy_comment_end?>soils with good drainage and thrive on [68-74 F temperatures (20-23
+            C)] during the day and 60 F (15-16 C) in the evening. Potting soils developed especially
+            for gardenias are available.</p>
         <p>In Japan and China, <b>Gardenia jasminoides</b> is called <i>Kuchinashi</i> (Japanese)
             and <i>Zhi zi</i> (Chinese); the bloom is used as a yellow dye, which is used for
             clothes and food (including the Korean mung bean jelly called hwangpomuk).</p>
